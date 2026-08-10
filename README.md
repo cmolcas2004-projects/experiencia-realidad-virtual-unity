@@ -49,7 +49,7 @@ El escenario combina diferentes elementos arquitectónicos y decorativos, incluy
 - Cuadros y elementos arquitectónicos.
 - Iluminación y materiales PBR.
 
-Los recursos 3D utilizados proceden de diferentes fuentes y fueron integrados y procesados para su utilización dentro del entorno de Unity. :contentReference[oaicite:5]{index=5}
+Los recursos 3D utilizados proceden de diferentes fuentes y fueron integrados y procesados para su utilización dentro del entorno de Unity.
 
 ## Mi aportación
 
