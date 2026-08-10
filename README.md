@@ -1,10 +1,10 @@
 # Entorno de Realidad Virtual Interactivo en Unity
 
-Proyecto de realidad virtual desarrollado en Unity que combina diseño de entornos 3D, interacción con objetos, físicas y animación de personajes mediante un sistema XR.
+Proyecto de realidad virtual desarrollado en Unity que combina diseño de entornos 3D, interacción con objetos y animación de personajes mediante un sistema XR.
 
 ## Descripción
 
-El proyecto consiste en un entorno virtual ambientado en un templo griego situado entre las ruinas de la Antigua Grecia.
+El proyecto consiste en el desarrollo de un entorno virtual ambientado en un templo griego situado entre las ruinas de la Antigua Grecia.
 
 El escenario está diseñado como un espacio tipo museo y se divide en diferentes zonas para guiar la experiencia del usuario:
 
@@ -12,7 +12,8 @@ El escenario está diseñado como un espacio tipo museo y se divide en diferente
 - Sala de bienvenida.
 - Zona de interacción y animación.
 
-El entorno utiliza iluminación, materiales y elementos arquitectónicos 3D para crear una experiencia inmersiva.
+El entorno incorpora elementos arquitectónicos, estatuas, iluminación y materiales para crear una experiencia inmersiva en realidad virtual.
+
 ## Tecnologías
 
 - Unity 2022.3.5f1
@@ -29,39 +30,39 @@ El proyecto incorpora diferentes elementos interactivos dentro del entorno virtu
 
 ### Puerta interactiva
 
-Se implementó una puerta animada mediante un sistema de Animator y triggers. El usuario puede activar la apertura mediante la interacción con el entorno VR.
+Se implementó un sistema de animación para una puerta mediante un Animator Controller y un sistema de triggers. El usuario puede activar la apertura mediante la interacción dentro del entorno de realidad virtual.
 
-La animación utiliza un controlador `Animator` y el script `ControlPuerta.cs` para detectar las interacciones del sistema XR. :contentReference[oaicite:3]{index=3}
+La lógica de interacción se controla mediante el script `ControlPuerta.cs`.
 
 ### Personaje animado
 
-También se integró un personaje 3D con rig humanoide y animaciones.
+También se integró un personaje 3D con rig humanoide y diferentes animaciones.
 
-El modelo fue procesado previamente en Blender y posteriormente integrado en Unity. Las animaciones fueron configuradas mediante un Animator Controller y se activan cuando el usuario se aproxima al personaje. :contentReference[oaicite:4]{index=4}
+El modelo fue procesado previamente en Blender y posteriormente integrado en Unity. Las animaciones se gestionan mediante un Animator Controller y se activan cuando el usuario se aproxima al personaje.
 
 ## Entorno 3D
 
-El escenario combina diferentes elementos arquitectónicos y decorativos, incluyendo:
+El escenario representa un templo griego rodeado de ruinas de la Antigua Grecia e incluye diferentes elementos arquitectónicos y decorativos:
 
 - Templo griego.
 - Ruinas antiguas.
 - Estatuas clásicas.
 - Cuadros y elementos arquitectónicos.
-- Iluminación y materiales PBR.
-
-Los recursos 3D utilizados proceden de diferentes fuentes y fueron integrados y procesados para su utilización dentro del entorno de Unity.
+- Iluminación y materiales 3D.
 
 ## Mi aportación
 
 Participación en el desarrollo y configuración del entorno virtual, incluyendo el diseño de la escena, integración de elementos 3D, sistemas de interacción y configuración de animaciones dentro de Unity.
 
+## Material del proyecto
+
+El material completo del proyecto, incluyendo la memoria técnica, el vídeo de demostración y los archivos del proyecto, se encuentra disponible en el siguiente enlace:
+
+' https://drive.google.com/file/d/1tf8v56wTePO7WJEwP58VPujjA_BOnj0u/view?usp=sharing '
+
 ## Documentación
 
-Se incluye la memoria técnica del proyecto con información sobre el diseño del entorno, planificación visual, sistemas de animación e implementación técnica.
-
-## Demostración
-
-Demostración: El proyecto incluye una memoria técnica y un vídeo de demostración del funcionamiento del entorno virtual. Debido al tamaño de los archivos, el proyecto completo y el vídeo no se incluyen directamente en este repositorio.
+La memoria técnica recoge información sobre el diseño del entorno, planificación visual, integración de assets, sistemas de interacción y animación.
 
 ## Proyecto académico
 
