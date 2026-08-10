@@ -12,8 +12,7 @@ El escenario está diseñado como un espacio tipo museo y se divide en diferente
 - Sala de bienvenida.
 - Zona de interacción y animación.
 
-El entorno utiliza iluminación, materiales y elementos arquitectónicos 3D para crear una experiencia inmersiva. :contentReference[oaicite:2]{index=2}
-
+El entorno utiliza iluminación, materiales y elementos arquitectónicos 3D para crear una experiencia inmersiva.
 ## Tecnologías
 
 - Unity 2022.3.5f1
