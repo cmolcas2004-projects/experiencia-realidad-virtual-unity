@@ -61,7 +61,7 @@ Se incluye la memoria técnica del proyecto con información sobre el diseño de
 
 ## Demostración
 
-Se incluye un vídeo mostrando el funcionamiento del entorno virtual y sus principales elementos interactivos.
+Demostración: El proyecto incluye una memoria técnica y un vídeo de demostración del funcionamiento del entorno virtual. Debido al tamaño de los archivos, el proyecto completo y el vídeo no se incluyen directamente en este repositorio.
 
 ## Proyecto académico
 
