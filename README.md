@@ -56,7 +56,7 @@ Participación en el desarrollo y configuración del entorno virtual, incluyendo
 
 ## Material del proyecto
 
-El material completo del proyecto, incluyendo la memoria técnica, el vídeo de demostración y los archivos del proyecto, se encuentra disponible en el siguiente enlace:
+El material completo del proyecto, incluyendo el vídeo de demostración y los archivos del proyecto, se encuentra disponible en el siguiente enlace:
 
 ' https://drive.google.com/file/d/1tf8v56wTePO7WJEwP58VPujjA_BOnj0u/view?usp=sharing '
 
