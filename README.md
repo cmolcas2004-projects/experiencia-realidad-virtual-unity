@@ -58,7 +58,7 @@ Participación en el desarrollo y configuración del entorno virtual, incluyendo
 
 El material completo del proyecto, incluyendo el vídeo de demostración y los archivos del proyecto, se encuentra disponible en el siguiente enlace:
 
-' https://drive.google.com/file/d/1tf8v56wTePO7WJEwP58VPujjA_BOnj0u/view?usp=sharing '
+' https://drive.google.com/drive/folders/1kbVIQMPP3nw9LZ0p6lV07NSBiOPhaW6_?usp=sharing '
 
 ## Documentación
 
